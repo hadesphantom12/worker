@@ -7,7 +7,7 @@ from pathlib import Path
 from typing import List, Dict, Optional
 
 # Konfigurasi
-DEFAULT_GITHUB_URL = "https://raw.githubusercontent.com/gopaybis/cf/refs/heads/main/worker.js"
+DEFAULT_GITHUB_URL = "https://raw.githubusercontent.com/hadesphantom12/cf/refs/heads/main/worker.js"
 API_URL = "https://api.cflifetime.workers.dev/"
 ACCOUNTS_FILE = Path.cwd() / "accounts.json"
 GITHUB_URLS_FILE = Path.cwd() / "github_urls.json"
