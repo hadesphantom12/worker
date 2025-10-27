@@ -6,4 +6,4 @@ apt install python
 
 pip install requests 
 
-python cf.py
+python main.py
